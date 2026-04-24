@@ -25,10 +25,6 @@ make run
 
 O frontend estará disponível em http://localhost:5173 (ou 5174 se a 5173 estiver em uso)
 
-## Credenciais de Demo
-
-- Email: `alice@exemplo.com` / Senha: `senha123`
-- Email: `bruno@exemplo.com` / Senha: `senha123`
 
 ## Estrutura do Projeto
 
