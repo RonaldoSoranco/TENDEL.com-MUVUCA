@@ -6,7 +6,7 @@ Sistema de gerenciamento de eventos sociais para compra e venda de ingressos.
 
 - **Eventos**: Criação, edição e listagem de eventos (shows, festas, rpg, etc)
 - **Ingressos**: Compra de ingressos para eventos
-- **Perfis**: Perfis de usuários e empresas
+- **Perfis**: Perfis de usuários e Parcialmente empresas
 - **Interesses**: Sistema de interesses em eventos
 
 ## Tech Stack
