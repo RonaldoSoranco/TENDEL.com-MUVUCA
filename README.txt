@@ -24,13 +24,6 @@ make run
 
 O backend estará disponível em http://localhost:8080
 
-### Frontend
-
-```bash
-cd frontend
-npm run dev
-```
-
 O frontend estará disponível em http://localhost:5173 (ou 5174 se a 5173 estiver em uso)
 
 ## Credenciais de Demo
