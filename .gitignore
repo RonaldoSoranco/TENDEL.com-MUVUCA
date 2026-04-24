@@ -1,0 +1,10 @@
+node_modules/
+dist/
+target/
+*.log
+*.db
+uploads/
+.DS_Store
+*.iml
+.vscode/
+.idea/
