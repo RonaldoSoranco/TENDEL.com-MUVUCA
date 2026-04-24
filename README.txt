@@ -1,24 +1,22 @@
-# TENDEL - Plataforma de Eventos
+TENDEL - Plataforma de Eventos
 
 Sistema de gerenciamento de eventos sociais para compra e venda de ingressos.
 
-## Funcionalidades
+Funcionalidades
 
 - **Eventos**: Criação, edição e listagem de eventos (shows, festas, rpg, etc)
 - **Ingressos**: Compra de ingressos para eventos
 - **Perfis**: Perfis de usuários e Parcialmente empresas
 - **Interesses**: Sistema de interesses em eventos
 
-## Tech Stack
+Tech Stack
 
 - **Backend**: Java 17 + Spring Boot 3 + SQLite
 - **Frontend**: React + Vite
 
-## Como Iniciar
+Como Iniciar
 
-### Backend
-
-```bash
+Na pasta do Projeto:
 make run
 ```
 
