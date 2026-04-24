@@ -22,7 +22,6 @@ Sistema de gerenciamento de eventos sociais para compra e venda de ingressos.
 make run
 ```
 
-O backend estará disponível em http://localhost:8080
 
 O frontend estará disponível em http://localhost:5173 (ou 5174 se a 5173 estiver em uso)
 
